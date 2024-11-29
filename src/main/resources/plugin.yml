@@ -1,0 +1,5 @@
+name: MKS
+version: '1-0.Beta'
+main: org.Lands.mKS.MKS
+api-version: '1.21'
+authors: [ ncz ]
